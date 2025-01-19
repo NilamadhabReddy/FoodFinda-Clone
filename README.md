@@ -1,5 +1,5 @@
 🍔 FOODFINDA - Find Your Favorite Food Instantly!
-Welcome to FOODFINDA, your ultimate destination for exploring delicious dishes and food items! This is a visually stunning and interactive food discovery website created using HTML, CSS, and JavaScript, with animations powered by modern JavaScript animation libraries like GSAP. Dive into the world of flavorful designs and mouth-watering visuals. 😋
+Welcome to FOODFINDA, your ultimate destination for exploring delicious dishes and food items! This is a visually stunning and interactive food discovery website created using HTML, CSS, and JavaScript, with animations powered by modern JavaScript animation libraries like Lenon JS. Dive into the world of flavorful designs and mouth-watering visuals. 😋
 
 ✨ Features
 Dynamic Landing Page 🌟: A beautifully animated hero section to welcome foodies with style.
