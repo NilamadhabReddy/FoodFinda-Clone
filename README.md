@@ -58,7 +58,7 @@ Edit
 git push origin feature/YourFeatureName
 Submit a pull request.
 ❤️ Acknowledgments
-GSAP - For incredible animations.
+Lenon JS - For incredible animations.
 All the foodies who inspire us to create such projects. 🍴
 📞 Contact
 Have a question or suggestion? Feel free to reach out!
