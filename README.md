@@ -63,8 +63,8 @@ All the foodies who inspire us to create such projects. 🍴
 📞 Contact
 Have a question or suggestion? Feel free to reach out!
 
-Email: foodfinda@example.com
-Twitter: @foodfinda
+Email: nilamadhabreddy8@gmail.com
+Twitter: @Nilamadhab Reddy
 
 ⭐ If you like this project, don't forget to star the repository and share it with your friends! ⭐
 
