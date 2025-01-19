@@ -1,6 +1,3 @@
-
-Here's a detailed and attractive README.md file for the FOODFINDA website:
-
 🍔 FOODFINDA - Find Your Favorite Food Instantly!
 Welcome to FOODFINDA, your ultimate destination for exploring delicious dishes and food items! This is a visually stunning and interactive food discovery website created using HTML, CSS, and JavaScript, with animations powered by modern JavaScript animation libraries like GSAP. Dive into the world of flavorful designs and mouth-watering visuals. 😋
 
